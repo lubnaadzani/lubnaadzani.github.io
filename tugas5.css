@@ -1,0 +1,36 @@
+        body {
+            background-image: url(https://images.pexels.com/photos/262713/pexels-photo-262713.jpeg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment: fixed;
+        }
+        .container {
+            width: 900px;
+            margin: 20px auto;
+            background-color: palevioletred;
+            border: 5px dotted pink;
+        }
+        h1 {
+            background-color: pink;
+            color: rgb(44, 43, 43);
+            text-align: center;
+        }
+        h2 {
+            background-color:bisque;
+            color: rgb(44, 43, 43);
+            text-align: center;
+        }
+        p {
+            padding: 20px;
+            text-align: justify;
+        }
+        #pengantar {
+            background-color: bisque;
+            padding: 50px;
+        }
+        .content1 {
+            background-color: bisque;
+        }
+        .content2 {
+            background-color: bisque;
+        }
